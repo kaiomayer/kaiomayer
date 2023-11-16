@@ -22,5 +22,5 @@
 
 </div> <br/>
 
-Estou cursando a 3a série do Colégio e Faculdade Cotemig (Previsão de conclusão Dez/2023) e busco a oportunidade de me desenvolver dentro da área de programação.
+
 
